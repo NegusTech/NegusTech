@@ -1,16 +1,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NegusTech&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Us:
-Negus Technologies was established with a core mission to spearhead the digitalization efforts in Ethiopia, aiming to revolutionize the technological landscape by offering innovative solutions. Our diverse team comprises talented Ethiopian developers and seasoned experts in the tech field, working collaboratively to translate ideas into impactful digital solutions.
+Negus Technologies was established with a core mission to spearhead the digitalization efforts in Ethiopia🇪🇹, aiming to revolutionize the technological landscape by offering innovative solutions. Our diverse team comprises talented Ethiopian developers and seasoned experts in the tech field, working collaboratively to translate ideas into impactful digital solutions.
 
 ## Social Media: 📡  
 Join me on Telegram
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/negustechnologies)
 
 ## Working On: 🚀
-| Cyber Security | AI Automation | Software Development | Embedded Systems| Graphic Design |
-|----------||----------||----------||----------||----------|
-| [![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=Cyber%20Security&logoColor=white)](https://github.com/NegusTech/Cyber-Security) | [![AI Automation](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=AI%20Automation&logoColor=white)](https://github.com/NegusTech/AI-Automation) | [![Software Development](https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=Software%20Development&logoColor=white)](https://github.com/NegusTech/Software-Development) | [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=Embedded%20Systems&logoColor=white)](https://github.com/NegusTech/Embedded-Systems) | [![Graphic Design](https://img.shields.io/badge/Graphic%20Design-000000?style=for-the-badge&logo=Graphic%20Design&logoColor=white)] |
+| ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=Cyber%20Security&logoColor=white)|![AI AUTOMATION](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=AI%20Automation&logoColor=white)|![Front-end Development](https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=Software%20Development&logoColor=white) | [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=Embedded%20Systems&logoColor=white)](https://github.com/NegusTech/Embedded-Systems)| ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-000000?style=for-the-badge&logo=Graphic%20Design&logoColor=white)|
+|----------|----------|----------|----------|----------|
+
 
 
 ## Languages And Tools
@@ -42,17 +42,9 @@ Join me on Telegram
 
 ### OS: ❤️ 
 
-| Linux | Ubuntu | Kali | Windows |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> 
-
-
-### pwntools, soon...
-
-| 1 | 2 | 3 |
-|----------|----------|----------|
-|<img src="assets/msf.svg" alt="msf" width="55" height="55" />|||
-
+| Linux | Ubuntu | Kali | Windows | Arch |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>
 
 
 ### Technologies:
