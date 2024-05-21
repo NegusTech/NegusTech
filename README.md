@@ -5,7 +5,7 @@ Negus Technologies was established with a core mission to spearhead the digitali
 
 ## Social Media: 📡  
 Join Us On <br>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/negustechnologies)<br>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/negustechnologies)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr)](https://www.instagram.com/negustechnologies)
 
 
