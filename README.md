@@ -4,8 +4,11 @@
 Negus Technologies was established with a core mission to spearhead the digitalization efforts in Ethiopia🇪🇹, aiming to revolutionize the technological landscape by offering innovative solutions. Our diverse team comprises talented Ethiopian developers and seasoned experts in the tech field, working collaboratively to translate ideas into impactful digital solutions.
 
 ## Social Media: 📡  
-Join Us On Telegram<br>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/negustechnologies)
+Join Us On <br>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/negustechnologies)<br>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr)](https://www.instagram.com/negustechnologies)
+
+
 
 ## Working On: 🚀
 | ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=Cyber%20Security&logoColor=white)|![AI AUTOMATION](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=AI%20Automation&logoColor=white)|![Front-end Development](https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=Software%20Development&logoColor=white) | [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=Embedded%20Systems&logoColor=white)](https://github.com/NegusTech/Embedded-Systems)| ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-000000?style=for-the-badge&logo=Graphic%20Design&logoColor=white)|
