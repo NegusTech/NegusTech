@@ -4,7 +4,7 @@
 Negus Technologies was established with a core mission to spearhead the digitalization efforts in Ethiopia🇪🇹, aiming to revolutionize the technological landscape by offering innovative solutions. Our diverse team comprises talented Ethiopian developers and seasoned experts in the tech field, working collaboratively to translate ideas into impactful digital solutions.
 
 ## Social Media: 📡  
-Join Us On <br>
+- Join Us On: <br>
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/negustechnologies)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negustechnologies)
 
